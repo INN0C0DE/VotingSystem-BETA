@@ -1,0 +1,12 @@
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\bin\Debug\VotingSystem.pdb
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\bin\Debug\VotingSystem.xml
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Form1.resources
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Resources.resources
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.vbproj.GenerateResource.Cache
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.xml
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Form2.resources
+d:\os_files\documents\visual studio 2013\Projects\VotingSystem\VotingSystem\bin\Debug\MySql.Data.Entity.EF5.dll
